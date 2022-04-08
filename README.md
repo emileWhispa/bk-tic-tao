@@ -11,7 +11,7 @@ The HR should be able to select an applicant and view his/her details
 
 Last, the HR must have option to change the application status (Dropped, Passed)
 
-You can find deployed version of this project
+You can find final version of this project
 https://simple-job-application-system-frontend.vercel.app/
 
 Login credentials as Staff
